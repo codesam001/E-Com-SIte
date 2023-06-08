@@ -55,12 +55,12 @@ export const popularProducts = [
   },
   {
     id:2,
-    img:"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41K8J6J3fUL.jpg",
+    img:"https://img.freepik.com/free-photo/high-fashion-portrait-young-beautiful-brunette-woman-wearing-nice-trendy-blue-suit-sexy-fashion-model-posing-studio-fashionable-female-isolated_158538-22188.jpg?w=2000",
   },
   {
 
     id:3,
-    img:"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61oR4MEXmTL._UY879_.jpg",
+    img:"https://images.herzindagi.info/image/2022/Jan/working-women-clothes-in-wardrobe.jpg",
   },
   {
     id:4,
@@ -72,7 +72,7 @@ export const popularProducts = [
   },
   {
     id:6,
-    img:"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71qTbVnVZZL._UY879_.jpg",
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbTho0H8nuC-xycOFqRcLMxoPO5vUckxKpsw&usqp=CAU",
   },
   {
     id:7,
@@ -80,11 +80,11 @@ export const popularProducts = [
   },
   {
     id:8,
-    img:"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61sYJlaT+OL._UY879_.jpg",
+    img:"https://cdn16.nnnow.com/web-images/medium/styles/XZEIQVDZ109/1677591809408/1.jpg",
   },
   {
     id:9,
-    img:"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61sYJlaT+OL._UY879_.jpg",
+    img:"https://n2.sdlcdn.com/imgs/k/i/m/500X640_sharpened_2_fg1_1/StyleStone-Black-Polyester-Women-s-SDL938625362-1-fd08b.webp",
   },
 ]
 
